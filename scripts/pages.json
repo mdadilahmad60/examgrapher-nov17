@@ -1,0 +1,2199 @@
+{
+ "site": {
+  "name": "ExamGrapher",
+  "domain": "https://examgrapher.com",
+  "year": 2026
+ },
+ "home": {
+  "title": "Online Graphing Calculator & Free Function Plotter | ExamGrapher",
+  "desc": "Free online graphing calculator with regressions, sliders and exam mode, for the Digital SAT, PSAT, ACT, AP Precalculus, AP Calculus and US state tests.",
+  "h1": "Online Graphing Calculator & Function Plotter",
+  "sub": "Plot several equations at once, find intercepts and intersections, plot points and fit regressions to real data, switch between degrees and radians, or practice with US Exam Mode. Free, no sign-up, works on Chromebooks and keeps working offline.",
+  "exprs": [
+   "x^2 - 4",
+   "2*x + 1"
+  ],
+  "trend_intro": "Testing has changed fast since 2023. The SAT and PSAT went fully digital with a built-in graphing calculator, AP Precalculus launched, the ACT was redesigned and state tests moved online. These tools follow those changes, and every one includes the new data table and regression panel."
+ },
+ "categories": [
+  {
+   "id": "exam-tools",
+   "name": "US Exam Prep"
+  },
+  {
+   "id": "data-tools",
+   "name": "Data, Regression & Finance"
+  },
+  {
+   "id": "algebra-tools",
+   "name": "Algebra & Functions"
+  },
+  {
+   "id": "trig-tools",
+   "name": "Trigonometry & Conics"
+  },
+  {
+   "id": "calculus-tools",
+   "name": "Calculus & 3D"
+  },
+  {
+   "id": "stats-tools",
+   "name": "Statistics & More"
+  },
+  {
+   "id": "guide-tools",
+   "name": "Calculator Guides & Comparisons"
+  }
+ ],
+ "pages": [
+  {
+   "path": "exam-prep/nc-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "North Carolina (NC) Graphing Calculator",
+   "title": "NC Graphing Calculator (EOG & EOC Practice) | ExamGrapher",
+   "desc": "Free online NC EOG and EOC practice graphing calculator with North Carolina state testing restrictions.",
+   "h1": "North Carolina (NC) Graphing Calculator",
+   "exprs": [
+    "2*x - 3",
+    "x^2 - 4*x + 3"
+   ],
+   "exam": true,
+   "faq": [
+    {
+     "q": "Is this the official calculator for North Carolina tests?",
+     "a": "No. ExamGrapher is an independent practice tool and is not affiliated with the North Carolina Department of Public Instruction. Check your school or the state's guidance for the calculators allowed on EOG and EOC tests."
+    },
+    {
+     "q": "What can I practice with it?",
+     "a": "Common school algebra graphs: linear equations, quadratics, exponentials, systems of equations and inequalities. Enter an equation and the roots, intercepts and intersections are marked for you."
+    },
+    {
+     "q": "Can I practice without the hints?",
+     "a": "Yes. Turn on US Exam Mode in Settings to lock key-point hints and tooltips."
+    },
+    {
+     "q": "Will it work on a school Chromebook or phone?",
+     "a": "It runs in a normal web browser with no install. Some schools block certain websites, so it may depend on your network."
+    }
+   ]
+  },
+  {
+   "path": "exam-prep/sat-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "Digital SAT Math Graphing Calculator",
+   "title": "Digital SAT Graphing Calculator Practice (2026) | ExamGrapher",
+   "desc": "Practice College Board Digital SAT Math with a built-in online graphing calculator and system solver.",
+   "h1": "Digital SAT Math Graphing Calculator",
+   "exprs": [
+    "3*x + 2",
+    "-x + 6"
+   ],
+   "exam": true,
+   "faq": [
+    {
+     "q": "Is ExamGrapher the calculator used on the Digital SAT?",
+     "a": "No. ExamGrapher is an independent practice tool and is not affiliated with the College Board. Check the College Board's official calculator policy for what you can use on test day, and use this page to practice graphing skills."
+    },
+    {
+     "q": "How do I practice SAT-style graphing questions here?",
+     "a": "Type each equation into its own row, for example 3x + 2 and -x + 6. Where the two lines meet is marked automatically and listed under Key points, so you can check an intersection you worked out by hand."
+    },
+    {
+     "q": "What does US Exam Mode do?",
+     "a": "It turns off key-point hints and tooltips so you graph without help, which is closer to working with a basic test calculator. Switch it on in Settings."
+    },
+    {
+     "q": "Do I need an account or an app?",
+     "a": "No. It is free, needs no sign-in, and runs in your phone or computer browser."
+    }
+   ],
+   "updated": "November 2026",
+   "trend": "Built-in calculator",
+   "intro": [
+    "Since the US switch in March 2024, the SAT has been fully digital and adaptive, and a graphing calculator is built into the Bluebook app for the entire Math section. Students who can graph a system, a quadratic or a data set quickly gain real time on every module.",
+    "Practice the high-value moves here: intersections for systems, vertex and roots for quadratics, shaded inequalities, and regressions for table and scatter-plot questions in the Data table & regression panel."
+   ],
+   "examples": [
+    {
+     "e": "3*x + 2*y = 12",
+     "l": "Standard-form line, no need to solve for y"
+    },
+    {
+     "e": "x^2 - 8*x + 12",
+     "l": "Vertex (4, -4) and roots 2 and 6"
+    },
+    {
+     "e": "k*x^2 + 4*x + 1",
+     "l": "Drag k to see when the parabola has exactly one root"
+    },
+    {
+     "e": "(1, 5), (3, 9), (5, 13)",
+     "l": "Points from a table: do they lie on y = 2x + 3?"
+    }
+   ]
+  },
+  {
+   "path": "exam-prep/act-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "ACT Math Practice Graphing Calculator",
+   "title": "ACT Math Graphing Calculator Practice (Enhanced ACT 2025-2026) | ExamGrapher",
+   "desc": "Free online graphing calculator aligned with ACT Math test guidelines, trig modes, and coordinate geometry.",
+   "h1": "ACT Math Practice Graphing Calculator",
+   "exprs": [
+    "sin(x)",
+    "0.5*x"
+   ],
+   "exam": true,
+   "faq": [
+    {
+     "q": "Is this an approved ACT calculator?",
+     "a": "No. ExamGrapher is an independent practice tool and is not affiliated with ACT, Inc. Read ACT's current calculator policy before test day to see which devices are allowed."
+    },
+    {
+     "q": "Which kinds of graphs should I practice for ACT Math?",
+     "a": "Try lines, parabolas, absolute value, exponentials and sine or cosine waves. For example, enter x^2 - 4 to see the roots and vertex, or sin(x) to see a period."
+    },
+    {
+     "q": "How can I check my answer to a system of equations?",
+     "a": "Graph both equations. The intersection point is marked and appears under Key points, so you can compare it with your own solution."
+    },
+    {
+     "q": "Will it work on my phone during homework?",
+     "a": "Yes. The layout is built for phones, and you can use the built-in math keyboard to type powers, roots and fractions."
+    }
+   ],
+   "updated": "November 2026",
+   "trend": "Enhanced ACT",
+   "intro": [
+    "The enhanced ACT, introduced online in spring 2025 and on paper from September 2025, has a shorter Math section with fewer questions, more time per question and four answer choices instead of five. Science is now optional. A calculator is allowed for the whole Math section, so graphing remains one of the best ways to check answers.",
+    "Use this page to practice trig graphs, systems and function questions, then turn on US Exam Mode for practice without hints. Check ACT's current calculator policy for the models allowed on paper testing."
+   ],
+   "examples": [
+    {
+     "e": "sin(x)",
+     "l": "Switch to DEG with the angle chip for degree-based trig"
+    },
+    {
+     "e": "x^2 + y^2 = 25",
+     "l": "Circle: radius and center questions"
+    },
+    {
+     "e": "abs(2*x - 3) = 5",
+     "l": "Absolute value equation solved as an implicit graph"
+    }
+   ]
+  },
+  {
+   "path": "exam-prep/deltamath-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "Online Graphing Calculator for DeltaMath",
+   "title": "DeltaMath Graphing Calculator Online | ExamGrapher",
+   "desc": "Fast browser-based graphing calculator for DeltaMath homework, transformations, and AP Classroom.",
+   "h1": "Online Graphing Calculator for DeltaMath",
+   "exprs": [
+    "(x - 2)^2 - 3"
+   ],
+   "exam": false,
+   "faq": [
+    {
+     "q": "Can I use this inside a DeltaMath assignment?",
+     "a": "ExamGrapher is a separate website, so open it in another tab or window. Ask your teacher what tools are allowed for each assignment."
+    },
+    {
+     "q": "Is ExamGrapher connected to DeltaMath?",
+     "a": "No. ExamGrapher is an independent tool and is not affiliated with DeltaMath."
+    },
+    {
+     "q": "How do I graph a function to check my work?",
+     "a": "Type it in the equation box, for example 2x + 1 or x^2 - 3x + 2. Use the + and minus buttons or pinch to zoom, and tap a Key point to jump to a root or intercept."
+    },
+    {
+     "q": "Can I save or share my graph?",
+     "a": "Yes. The share button copies a link that reopens your equations, and Settings lets you download the graph as a PNG image."
+    }
+   ]
+  },
+  {
+   "path": "exam-prep/georgia-milestones-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "Georgia Milestones EOC Practice Calculator",
+   "title": "Georgia Milestones Graphing Calculator | ExamGrapher",
+   "desc": "Online graphing calculator tailored for Georgia Milestones Algebra 1 and Geometry EOC test prep.",
+   "h1": "Georgia Milestones EOC Practice Calculator",
+   "exprs": [
+    "2^x - 4",
+    "x + 2"
+   ],
+   "exam": true,
+   "faq": [
+    {
+     "q": "Is ExamGrapher the Georgia Milestones online calculator?",
+     "a": "No. ExamGrapher is an independent practice tool and is not affiliated with the Georgia Department of Education. Use your school's guidance for what is allowed on the test."
+    },
+    {
+     "q": "How do I practice graphing for Georgia Milestones EOC math?",
+     "a": "Enter functions such as x^2 - 5x + 6 or 2^x and look at the roots, intercepts and turning points listed under Key points. Compare them with answers you worked out by hand."
+    },
+    {
+     "q": "Can I check a system of inequalities?",
+     "a": "Yes. Type inequalities such as y > x + 2 and y < -2x + 5, and the region that satisfies both is shaded."
+    },
+    {
+     "q": "Do I need to sign in?",
+     "a": "No. It is free and works in your browser on phones, tablets and computers."
+    }
+   ]
+  },
+  {
+   "path": "exam-prep/ap-calculus-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "AP Calculus Online Graphing Calculator",
+   "title": "AP Calculus AB & BC Graphing Calculator | ExamGrapher",
+   "desc": "Plot derivatives, definite integrals, and intersection points for AP Calculus AB and BC exams.",
+   "h1": "AP Calculus Online Graphing Calculator",
+   "exprs": [
+    "x^3 - 3*x",
+    "3*x^2 - 3"
+   ],
+   "exam": false,
+   "faq": [
+    {
+     "q": "Can I use ExamGrapher on the AP Calculus exam?",
+     "a": "No. It is an independent practice tool, not an approved exam device. AP exams have their own calculator rules, and some parts do not allow a calculator at all, so read the College Board's current policy."
+    },
+    {
+     "q": "Does it find derivatives and integrals automatically?",
+     "a": "Not at the moment. You can graph a function and a derivative you worked out yourself to compare their shapes, for example x^3 - 3x and 3x^2 - 3."
+    },
+    {
+     "q": "How can I explore how a parameter changes a graph?",
+     "a": "Use any extra letter as a slider. Typing a*x^2 + b*x + c lets you drag a, b and c and watch the curve change."
+    },
+    {
+     "q": "Is it free to use?",
+     "a": "Yes. It is free, needs no sign-in, and works in any modern browser."
+    }
+   ],
+   "updated": "November 2026"
+  },
+  {
+   "path": "exam-prep/virginia-sol-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "Virginia SOL Math Graphing Calculator",
+   "title": "Virginia SOL Graphing Calculator Practice | ExamGrapher",
+   "desc": "Practice Virginia Standards of Learning (SOL) Algebra 1 and Algebra 2 with testing-safe graphing tools.",
+   "h1": "Virginia SOL Math Graphing Calculator",
+   "exprs": [
+    "abs(x - 2) - 3"
+   ],
+   "exam": true,
+   "faq": [
+    {
+     "q": "Is this the calculator built into the Virginia SOL test?",
+     "a": "No. ExamGrapher is an independent practice tool and is not affiliated with the Virginia Department of Education. Your teacher or school can tell you which calculators are allowed on SOL tests."
+    },
+    {
+     "q": "What should I practice for SOL math?",
+     "a": "Try linear and quadratic functions, systems of equations, and inequalities. For example, graph y = 2x + 1 and y = x^2 - 3 to see where they cross."
+    },
+    {
+     "q": "How do I zoom in on a point?",
+     "a": "Pinch or scroll to zoom, or tap a Key point in the list to jump straight to it. The home button resets the view."
+    },
+    {
+     "q": "Is it free on a phone?",
+     "a": "Yes. It is free, needs no account, and the layout is designed for phones."
+    }
+   ]
+  },
+  {
+   "path": "functions/domain-and-range-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Domain and Range Grapher",
+   "title": "Domain and Range Grapher & Calculator | ExamGrapher",
+   "desc": "Visualize function domains, restricted intervals, asymptotes, and output ranges interactively.",
+   "h1": "Domain and Range Grapher",
+   "exprs": [
+    "sqrt(x + 4)",
+    "1/(x - 2)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/linear-equation-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Linear Equation Grapher",
+   "title": "Linear Equation Grapher (Slope & Intercepts) | ExamGrapher",
+   "desc": "Plot linear equations y = mx + b, compare parallel and perpendicular lines, and find X/Y intercepts.",
+   "h1": "Linear Equation Grapher",
+   "exprs": [
+    "2*x - 3",
+    "-0.5*x + 4"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/system-of-equations-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "System of Equations Grapher",
+   "title": "System of Equations Grapher & Solver | ExamGrapher",
+   "desc": "Graph two or more equations simultaneously to find exact points of intersection.",
+   "h1": "System of Equations Grapher",
+   "exprs": [
+    "x^2 - 4",
+    "x + 2"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/graphing-inequalities-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Graphing Inequalities Calculator",
+   "title": "Graphing Inequalities Calculator Online | ExamGrapher",
+   "desc": "Plot boundary lines and shaded regions for linear and quadratic inequalities.",
+   "h1": "Graphing Inequalities Calculator",
+   "exprs": [
+    "y > 2x + 1",
+    "y <= x^2 - 3"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/piecewise-function-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Piecewise Function Grapher",
+   "title": "Piecewise Function Grapher & Plotter | ExamGrapher",
+   "desc": "Graph multi-rule conditional functions using ternary expressions like x < 0 ? -x : x^2.",
+   "h1": "Piecewise Function Grapher",
+   "exprs": [
+    "x < 0 ? -x : x^2"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/rational-function-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Rational Function Grapher",
+   "title": "Rational Function Grapher (Asymptotes & Holes) | ExamGrapher",
+   "desc": "Plot rational fractions p(x)/q(x) and inspect vertical and horizontal asymptotes.",
+   "h1": "Rational Function Grapher",
+   "exprs": [
+    "(x^2 - 1)/(x - 2)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/square-root-function-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Square Root Function Grapher",
+   "title": "Square Root Function Grapher | ExamGrapher",
+   "desc": "Plot radical functions y = a*sqrt(x - h) + k and analyze endpoint shifts.",
+   "h1": "Square Root Function Grapher",
+   "exprs": [
+    "sqrt(x + 3) - 1",
+    "-sqrt(x)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/quadratic-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Quadratic Graphing Calculator",
+   "title": "Quadratic Graphing Calculator (Parabola Plotter) | ExamGrapher",
+   "desc": "Graph parabolas y = ax^2 + bx + c, locate vertex coordinates, and find real roots.",
+   "h1": "Quadratic Graphing Calculator",
+   "exprs": [
+    "x^2 - 4*x + 3"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/absolute-value-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Absolute Value Graphing Calculator",
+   "title": "Absolute Value Graphing Calculator | ExamGrapher",
+   "desc": "Plot V-shaped absolute value functions y = a|x - h| + k with vertex shifts.",
+   "h1": "Absolute Value Graphing Calculator",
+   "exprs": [
+    "2*abs(x - 1) - 4"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/system-of-inequalities-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "System of Inequalities Grapher",
+   "title": "System of Inequalities Grapher | ExamGrapher",
+   "desc": "Visualize overlapping feasible regions for systems of linear and nonlinear inequalities.",
+   "h1": "System of Inequalities Grapher",
+   "exprs": [
+    "y > x + 2",
+    "y < -2x + 5"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/inverse-function-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Inverse Function Grapher",
+   "title": "Inverse Function Grapher (Reflection across y = x) | ExamGrapher",
+   "desc": "Compare any function f(x) alongside its inverse f^-1(x) and the y = x symmetry line.",
+   "h1": "Inverse Function Grapher",
+   "exprs": [
+    "x^3",
+    "cbrt(x)",
+    "x"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/logarithm-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Logarithm Grapher",
+   "title": "Logarithm Grapher (ln, log10 & Base-b) | ExamGrapher",
+   "desc": "Plot natural logarithm ln(x), common logarithm log(x) (base 10), and vertical asymptotes.",
+   "h1": "Logarithm Grapher",
+   "exprs": [
+    "ln(x)",
+    "log(x)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/logarithmic-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Logarithmic Graphing Calculator",
+   "title": "Logarithmic Graphing Calculator Online | ExamGrapher",
+   "desc": "Explore logarithmic transformations y = a*log(x - h) + k and domain boundaries.",
+   "h1": "Logarithmic Graphing Calculator",
+   "exprs": [
+    "2*log(x + 2) - 1"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/number-line-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Number Line Inequality Grapher",
+   "title": "Number Line Graphing Calculator | ExamGrapher",
+   "desc": "Visualize single-variable inequalities and intervals along the horizontal X-axis.",
+   "h1": "Number Line Inequality Grapher",
+   "exprs": [
+    "x > -2 ? 0 : NaN"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/cubic-function-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Cubic Function Grapher",
+   "title": "Cubic Function Grapher & Inflection Plotter | ExamGrapher",
+   "desc": "Plot third-degree polynomials y = ax^3 + bx^2 + cx + d and identify turning points.",
+   "h1": "Cubic Function Grapher",
+   "exprs": [
+    "x^3 - 3*x + 1"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/exponential-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Exponential Growth & Decay Grapher",
+   "title": "Exponential Graphing Calculator | ExamGrapher",
+   "desc": "Plot exponential functions y = a*b^x and continuous growth y = e^x.",
+   "h1": "Exponential Growth & Decay Grapher",
+   "exprs": [
+    "2^x",
+    "exp(-x)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/polynomial-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Polynomial Function Grapher",
+   "title": "Polynomial Graphing Calculator | ExamGrapher",
+   "desc": "Graph higher-degree polynomials and observe end behavior and real zeros.",
+   "h1": "Polynomial Function Grapher",
+   "exprs": [
+    "0.2*x^4 - 2*x^2 + 3"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/vertex-form-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Vertex Form Parabola Grapher",
+   "title": "Vertex Form Graphing Calculator | ExamGrapher",
+   "desc": "Plot quadratic functions in vertex form y = a(x - h)^2 + k.",
+   "h1": "Vertex Form Parabola Grapher",
+   "exprs": [
+    "0.5*(x - 3)^2 - 2"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/asymptote-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Asymptote & Discontinuity Grapher",
+   "title": "Asymptote Graphing Calculator | ExamGrapher",
+   "desc": "Identify vertical, horizontal, and oblique asymptotes on rational curves.",
+   "h1": "Asymptote & Discontinuity Grapher",
+   "exprs": [
+    "(2*x + 1)/(x - 3)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/slope-intercept-form-grapher/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Slope-Intercept Form Grapher",
+   "title": "Slope-Intercept Form Grapher (y = mx + b) | ExamGrapher",
+   "desc": "Enter slope m and y-intercept b to instantly plot linear equations.",
+   "h1": "Slope-Intercept Form Grapher",
+   "exprs": [
+    "1.5*x - 2"
+   ],
+   "exam": false
+  },
+  {
+   "path": "functions/standard-form-graphing-calculator/",
+   "category": "algebra-tools",
+   "category_name": "Algebra & Functions",
+   "card": "Standard Form Line Grapher",
+   "title": "Standard Form Graphing Calculator (Ax + By = C) | ExamGrapher",
+   "desc": "Convert and graph standard form linear equations on an interactive coordinate plane.",
+   "h1": "Standard Form Line Grapher",
+   "exprs": [
+    "(6 - 2*x)/3"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/cosine-grapher/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Cosine Grapher",
+   "title": "Cosine Grapher & Cosine Function Calculator | ExamGrapher",
+   "desc": "Plot y = a*cos(bx - c) + d, toggle Degree/Radian modes, and inspect amplitude and period.",
+   "h1": "Cosine Grapher",
+   "exprs": [
+    "cos(x)",
+    "2*cos(2*x)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/sine-wave-grapher/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Sine Wave Grapher",
+   "title": "Sine Wave Grapher & Frequency Plotter | ExamGrapher",
+   "desc": "Visualize sinusoidal waves y = A*sin(Bx + C) + D in radians or degrees.",
+   "h1": "Sine Wave Grapher",
+   "exprs": [
+    "sin(x)",
+    "1.5*sin(x - pi/2)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/trigonometric-function-grapher/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Trigonometric Function Grapher",
+   "title": "Trigonometric Function Grapher (sin, cos, tan) | ExamGrapher",
+   "desc": "Compare sine, cosine, tangent, secant, and cosecant curves simultaneously.",
+   "h1": "Trigonometric Function Grapher",
+   "exprs": [
+    "sin(x)",
+    "cos(x)",
+    "tan(x)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/trig-graphing-calculator/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Trig Graphing Calculator",
+   "title": "Trig Graphing Calculator (Degrees & Radians) | ExamGrapher",
+   "desc": "Interactive trigonometry plotter with instant Degree and Radian mode switching.",
+   "h1": "Trig Graphing Calculator",
+   "exprs": [
+    "2*sin(x) + 1"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/unit-circle-calculator/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Unit Circle Grapher",
+   "title": "Unit Circle Calculator & Grapher | ExamGrapher",
+   "desc": "Plot the unit circle x^2 + y^2 = 1 and explore trigonometric ratios.",
+   "h1": "Unit Circle Grapher",
+   "exprs": [
+    "x^2 + y^2 = 1"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/conic-sections-grapher/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Conic Sections Grapher",
+   "title": "Conic Sections Grapher (Circles, Ellipses, Hyperbolas) | ExamGrapher",
+   "desc": "Graph circles, ellipses, parabolas, and hyperbolas on one coordinate grid.",
+   "h1": "Conic Sections Grapher",
+   "exprs": [
+    "x^2 + y^2 = 9",
+    "x^2/4 + y^2 = 1"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/circle-equation-grapher/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Circle Equation Grapher",
+   "title": "Circle Equation Grapher (Center & Radius) | ExamGrapher",
+   "desc": "Plot circles (x - h)^2 + (y - k)^2 = r^2 by graphing upper and lower semicircles.",
+   "h1": "Circle Equation Grapher",
+   "exprs": [
+    "x^2 + y^2 = 16"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/ellipse-graphing-calculator/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Ellipse Equation Grapher",
+   "title": "Ellipse Graphing Calculator | ExamGrapher",
+   "desc": "Visualize horizontal and vertical ellipses x^2/a^2 + y^2/b^2 = 1.",
+   "h1": "Ellipse Equation Grapher",
+   "exprs": [
+    "x^2/25 + y^2/9 = 1"
+   ],
+   "exam": false
+  },
+  {
+   "path": "trigonometry/hyperbola-graphing-calculator/",
+   "category": "trig-tools",
+   "category_name": "Trigonometry & Conics",
+   "card": "Hyperbola Equation Grapher",
+   "title": "Hyperbola Graphing Calculator | ExamGrapher",
+   "desc": "Plot hyperbola branches and asymptotic behavior interactively.",
+   "h1": "Hyperbola Equation Grapher",
+   "exprs": [
+    "x^2/4 - y^2/9 = 1"
+   ],
+   "exam": false
+  },
+  {
+   "path": "calculus/3d-graphing-calculator/",
+   "category": "calculus-tools",
+   "category_name": "Calculus & 3D",
+   "card": "3D Graphing Calculator",
+   "surface": true,
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "badge": "Free, runs in your browser",
+   "title": "3D Graphing Calculator: Plot z = f(x, y) Surfaces Online | ExamGrapher",
+   "desc": "Free 3D graphing calculator and surface plotter. Type z = f(x, y), rotate and zoom the surface, set ranges, use sliders and save a PNG.",
+   "h1": "3D Graphing Calculator",
+   "intro": [
+    "This 3D graphing calculator plots a surface z = f(x, y). Type a formula in x and y, then drag to rotate the surface, scroll or pinch to zoom, and use the range boxes to choose which part of the surface to see. Letters other than x and y, such as a or b, become sliders so you can watch how a parameter changes the shape. It also draws implicit surfaces such as the sphere x^2 + y^2 + z^2 = 9 when you type an equation that contains z."
+   ],
+   "sections": [
+    {
+     "h": "How to enter a formula",
+     "ul": [
+      "Type the right-hand side only, for example x^2 + y^2. Starting with z = is also fine.",
+    "For a closed or implicit surface, type an equation in x, y and z, such as x^2 + y^2 + z^2 = 9. The plotter finds every point where both sides are equal.",
+      "Use * for multiplication or write sin(x)cos(y). Use ^ for powers and sqrt(), abs() or |x| for roots and absolute value.",
+      "Functions include sin, cos, tan, exp, ln, log, sqrt and abs. Angles are in radians.",
+      "Any other single letter, such as a or b, becomes a slider from −5 to 5."
+     ]
+    },
+    {
+     "h": "Controls",
+     "ul": [
+      "Drag (or use the arrow keys) to rotate, scroll or pinch to zoom, and double-click to reset the view.",
+      "Top view looks straight down on the surface with no perspective, so the colours read like a contour map of height.",
+      "Detail sets the grid resolution. Use Fine for smooth curves and Fast on slower phones. Implicit surfaces use a 3D grid, so Fast is a good choice for the busiest ones.",
+    "For an implicit surface, z min and z max set the height of the box (default −6 to 6). Widen the ranges if part of the surface is cut off.",
+      "Set z min and z max to clip tall spikes so you can see the interesting part of surfaces such as 1/(x^2 + y^2)."
+     ]
+    },
+    {
+     "h": "Surfaces to try",
+     "ul": [
+      "Paraboloid: z = x^2 + y^2, a bowl that opens upward.",
+      "Saddle: z = x^2 − y^2, which curves up along one axis and down along the other.",
+      "Ripple: z = sin(sqrt(x^2 + y^2)), circular waves around the origin.",
+      "Gaussian: z = exp(−(x^2 + y^2)/4), a smooth hill.",
+      "Cone: z = sqrt(x^2 + y^2).",
+      "Monkey saddle: z = x^3 − 3xy^2, which has room for three downward slopes."
+     ]
+    },
+    {
+     "h": "Implicit surfaces to try",
+   "ul": [
+    "Sphere: x^2 + y^2 + z^2 = 9.",
+    "Torus: (sqrt(x^2 + y^2) − 3)^2 + z^2 = 1, a doughnut.",
+    "Hyperboloid: x^2 + y^2 − z^2 = 1, an hourglass that opens up and down.",
+    "Gyroid: sin(x)cos(y) + sin(y)cos(z) + sin(z)cos(x) = 0, a repeating sponge-like sheet."
+   ]
+  },
+  {
+   "h": "Reading the graph",
+     "p": [
+      "The colour shows height: dark purple is the lowest point in view and yellow is the highest, and the colour bar at the right lists the values. The numbers on the box edges show the x and y ranges. Because the height axis is scaled to fit the box, compare heights using the numbers rather than the visual size alone."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can it plot a sphere or other implicit surfaces such as x^2 + y^2 + z^2 = 9?",
+     "a": "Yes. Type the equation with z on either side, for example x^2 + y^2 + z^2 = 9. The plotter samples the box and extracts the surface with a method called marching tetrahedra. Inequalities such as x^2 + y^2 + z^2 < 9 are not supported."
+    },
+    {
+     "q": "Why are parts of my surface missing?",
+     "a": "Points where the formula has no real value, such as the square root of a negative number or division by zero, are left blank. Points outside your z min and z max limits are also left blank."
+    },
+    {
+     "q": "Why is my surface a flat sheet or very spiky?",
+     "a": "A very tall spike makes the rest of the surface look flat because the height is scaled to fit. Set z min and z max, or narrow the x and y ranges, to zoom into the part you care about."
+    },
+    {
+     "q": "Does it work on a phone?",
+     "a": "Yes. Drag with one finger to rotate and pinch with two fingers to zoom. If the surface is slow to draw, choose Fast detail."
+    },
+    {
+     "q": "Are angles in degrees or radians?",
+     "a": "Radians, so sin(x) uses x in radians, as in most calculus courses."
+    },
+    {
+     "q": "Can I save the picture?",
+     "a": "Use Save PNG to download the current view as an image."
+    }
+   ]
+  },
+  {
+   "path": "calculus/parametric-equation-grapher/",
+   "category": "calculus-tools",
+   "category_name": "Calculus & 3D",
+   "card": "Parametric & Lissajous Curve Grapher",
+   "title": "Parametric Equation Grapher | ExamGrapher",
+   "desc": "Plot parametric trajectories and multi-loop curves interactively.",
+   "h1": "Parametric & Lissajous Curve Grapher",
+   "exprs": [
+    "(cos(t), sin(t))",
+    "(2*cos(t), sin(2*t))"
+   ],
+   "exam": false
+  },
+  {
+   "path": "calculus/polar-graphing-calculator/",
+   "category": "calculus-tools",
+   "category_name": "Calculus & 3D",
+   "card": "Polar Graphing Calculator",
+   "title": "Polar Graphing Calculator (Rose & Cardioid Curves) | ExamGrapher",
+   "desc": "Visualize polar rose curves, spirals, and cardioids.",
+   "h1": "Polar Graphing Calculator",
+   "exprs": [
+    "r = 2*sin(3*t)",
+    "r = 1 + cos(t)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "calculus/derivative-graphing-calculator/",
+   "category": "calculus-tools",
+   "category_name": "Calculus & 3D",
+   "card": "Derivative Graphing Calculator",
+   "title": "Derivative Graphing Calculator f'(x) | ExamGrapher",
+   "desc": "Plot a function f(x) alongside its derivative f'(x) to analyze slope and extrema.",
+   "h1": "Derivative Graphing Calculator",
+   "exprs": [
+    "x^3 - 3*x",
+    "3*x^2 - 3"
+   ],
+   "exam": false
+  },
+  {
+   "path": "calculus/integral-graphing-calculator/",
+   "category": "calculus-tools",
+   "category_name": "Calculus & 3D",
+   "card": "Integral Graphing Calculator",
+   "title": "Integral Graphing Calculator & Area Under Curve | ExamGrapher",
+   "desc": "Visualize antiderivatives F(x) and accumulated area under curves.",
+   "h1": "Integral Graphing Calculator",
+   "exprs": [
+    "x^2",
+    "(x^3)/3"
+   ],
+   "exam": false
+  },
+  {
+   "path": "calculus/tangent-line-graphing-calculator/",
+   "category": "calculus-tools",
+   "category_name": "Calculus & 3D",
+   "card": "Tangent Line Grapher",
+   "title": "Tangent Line Graphing Calculator | ExamGrapher",
+   "desc": "Plot any curve together with its tangent line at a given point.",
+   "h1": "Tangent Line Grapher",
+   "exprs": [
+    "x^2",
+    "4*x - 4"
+   ],
+   "exam": false
+  },
+  {
+   "path": "calculus/slope-field-graphing-calculator/",
+   "category": "calculus-tools",
+   "category_name": "Calculus & 3D",
+   "card": "Slope Field & Solution Curve Grapher",
+   "title": "Slope Field Graphing Calculator (Differential Equations) | ExamGrapher",
+   "desc": "Plot particular solution curves for first-order differential equations.",
+   "h1": "Slope Field & Solution Curve Grapher",
+   "exprs": [
+    "exp(x)",
+    "2*exp(x)",
+    "-exp(x)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "calculus/taylor-polynomial-calculator/",
+   "category": "calculus-tools",
+   "category_name": "Calculus & 3D",
+   "card": "Taylor Polynomial Approximation Grapher",
+   "title": "Taylor Polynomial Calculator & Grapher | ExamGrapher",
+   "desc": "Compare sin(x) or e^x against Taylor series polynomial approximations.",
+   "h1": "Taylor Polynomial Approximation Grapher",
+   "exprs": [
+    "sin(x)",
+    "x - (x^3)/6 + (x^5)/120"
+   ],
+   "exam": false
+  },
+  {
+   "path": "statistics/normal-distribution-grapher/",
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "card": "Normal Distribution & Bell Curve Grapher",
+   "title": "Normal Distribution Grapher (Bell Curve) | ExamGrapher",
+   "desc": "Plot the Gaussian standard normal probability density curve.",
+   "h1": "Normal Distribution & Bell Curve Grapher",
+   "exprs": [
+    "(1/sqrt(2*pi))*exp(-0.5*x^2)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "statistics/bell-curve-generator/",
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "card": "Bell Curve Generator",
+   "title": "Bell Curve Generator & Z-Score Grapher | ExamGrapher",
+   "desc": "Visualize mean, standard deviation spreads, and normal curves.",
+   "h1": "Bell Curve Generator",
+   "exprs": [
+    "(1/sqrt(2*pi))*exp(-0.5*(x-1)^2)"
+   ],
+   "exam": false
+  },
+  {
+   "path": "statistics/supply-and-demand-grapher/",
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "card": "Supply and Demand Equilibrium Grapher",
+   "title": "Supply and Demand Grapher (Equilibrium Finder) | ExamGrapher",
+   "desc": "Find market equilibrium price and quantity where supply intersects demand.",
+   "h1": "Supply and Demand Equilibrium Grapher",
+   "exprs": [
+    "0.8*x + 1",
+    "-0.7*x + 8.5"
+   ],
+   "exam": false
+  },
+  {
+   "path": "statistics/projectile-motion-grapher/",
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "card": "Projectile Motion Trajectory Grapher",
+   "title": "Projectile Motion Grapher (Physics Trajectory) | ExamGrapher",
+   "desc": "Model parabolic launch height vs. distance y = x*tan(θ) - gx^2/(2v^2cos^2θ).",
+   "h1": "Projectile Motion Trajectory Grapher",
+   "exprs": [
+    "x - 0.1*x^2"
+   ],
+   "exam": false
+  },
+  {
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "badge": "Free, runs in your browser",
+   "disclaimer": "Disclaimer: ExamGrapher's statistics tools are for learning and for checking homework. Everything is calculated in your browser, and nothing you type is uploaded. For research, medical, financial or other high-stakes decisions, confirm results with dedicated statistical software.",
+   "path": "statistics/z-score-calculator/",
+   "stats": "zscore",
+   "card": "Z-Score Calculator",
+   "title": "Z-Score Calculator: Find z, Percentile & Probability | ExamGrapher",
+   "desc": "Free z-score calculator. Convert a value to a z-score, find a value from z or a percentile, and get normal-curve probabilities with a shaded bell curve.",
+   "h1": "Z-Score Calculator",
+   "intro": [
+    "A z-score tells you how many standard deviations a value sits from the mean. Positive means above the mean, negative means below, and zero means exactly average. This calculator converts a raw value to a z-score, turns a z-score or percentile back into a value, and finds the probability (area under the normal curve) for one tail, a middle range or both tails.",
+    "It assumes the data is roughly normal, which is the usual setting for z-score and percentile questions in AP Statistics and introductory college statistics."
+   ],
+   "sections": [
+    {
+     "h": "The z-score formula",
+     "p": [
+      "z = (x − μ) / σ, where x is the value, μ is the mean and σ is the standard deviation. To go back from a z-score to a value, use x = μ + zσ. If you only have a sample, the same formula works with the sample mean and sample standard deviation."
+     ]
+    },
+    {
+     "h": "Worked example",
+     "p": [
+      "A test has a mean of 70 and a standard deviation of 10. A score of 85 gives z = (85 − 70) / 10 = 1.5. The area to the left of z = 1.5 is about 0.9332, so the score is at about the 93rd percentile and roughly 6.7% of scores are higher. The calculator opens with these numbers already filled in."
+     ]
+    },
+    {
+     "h": "What the probability options mean",
+     "ul": [
+      "Left tail, P(X < a): the share of values below a. This is the percentile.",
+      "Right tail, P(X > a): the share of values above a.",
+      "Between a and b: the probability that a value falls inside the range.",
+      "Outside a and b: the probability in both tails together, which is what two-sided tests use."
+     ]
+    },
+    {
+     "h": "The 68-95-99.7 rule",
+     "p": [
+      "In a normal distribution about 68% of values fall within 1 standard deviation of the mean (z between −1 and 1), about 95% within 2, and about 99.7% within 3. That is why values beyond z = ±2 are called unusual and beyond ±3 are rare."
+     ]
+    },
+    {
+     "h": "Z-scores worth remembering",
+     "ul": [
+      "z = 1.645 is the 95th percentile (a 5% right tail).",
+      "z = 1.96 is the 97.5th percentile and marks the middle 95%.",
+      "z = 2.576 is the 99.5th percentile and marks the middle 99%."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "What is a good z-score?",
+     "a": "It depends on what you are measuring. A z-score only says how far a value is from the mean. For test scores a high positive z means a high percentile, while for something like error rates a low or negative z is better. In a normal distribution, values beyond ±2 are unusual and beyond ±3 are rare."
+    },
+    {
+     "q": "Can a z-score be negative?",
+     "a": "Yes. A negative z-score means the value is below the mean. A z-score of −1.2 is 1.2 standard deviations below average."
+    },
+    {
+     "q": "How do I find a z-score from a percentile?",
+     "a": "Choose “Z-score and value from a percentile”, then enter the percentile. For example, the 90th percentile is z ≈ 1.2816."
+    },
+    {
+     "q": "What is the difference between a z-score and a t-score?",
+     "a": "A z-score uses the normal distribution, normally with a known or assumed standard deviation. A t statistic uses the sample standard deviation and the t distribution, which has heavier tails when the sample is small. For tests on means from small samples, use the t-test calculator."
+    },
+    {
+     "q": "Does it work if my data is not normal?",
+     "a": "You can always compute a z-score, but the probabilities and percentiles assume a normal distribution. For skewed data they can be misleading, so check a histogram first."
+    },
+    {
+     "q": "Is a z-score the same as a standard score?",
+     "a": "Yes. Standard score and z-score mean the same thing: the number of standard deviations a value is from the mean."
+    }
+   ]
+  },
+  {
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "badge": "Free, runs in your browser",
+   "disclaimer": "Disclaimer: ExamGrapher's statistics tools are for learning and for checking homework. Everything is calculated in your browser, and nothing you type is uploaded. For research, medical, financial or other high-stakes decisions, confirm results with dedicated statistical software.",
+   "path": "statistics/standard-deviation-calculator/",
+   "stats": "stddev",
+   "card": "Standard Deviation Calculator",
+   "title": "Standard Deviation Calculator (Sample & Population) with Steps | ExamGrapher",
+   "desc": "Free standard deviation calculator. Paste your data for sample and population SD, variance, mean, standard error and a step-by-step table.",
+   "h1": "Standard Deviation Calculator",
+   "intro": [
+    "Standard deviation measures how spread out numbers are around their mean. A small value means the data sits close to the average, and a large value means it is more spread out. Paste your numbers and this calculator returns the sample and population versions, plus variance, mean, median, range, standard error and a step-by-step table of deviations."
+   ],
+   "sections": [
+    {
+     "h": "Sample or population?",
+     "p": [
+      "Use population standard deviation (divide by n) when your numbers are the whole group you care about, such as every score in a class of 25. Use sample standard deviation (divide by n − 1) when your numbers are a sample from a larger group and you want to estimate that group's spread. Dividing by n − 1 is called Bessel's correction. Most statistics courses expect the sample formula unless the problem says the data is a population."
+     ]
+    },
+    {
+     "h": "Formulas",
+     "ul": [
+      "Mean: x̄ = Σx / n",
+      "Sample variance: s² = Σ(x − x̄)² / (n − 1)",
+      "Population variance: σ² = Σ(x − μ)² / N",
+      "Standard deviation is the square root of the variance.",
+      "Standard error of the mean: s / √n"
+     ]
+    },
+    {
+     "h": "Worked example",
+     "p": [
+      "For 4, 8, 6, 5, 3, 7, 9, 5 the mean is 47 / 8 = 5.875 and the sum of squared deviations is 28.875. The sample variance is 28.875 / 7 = 4.125, so the sample standard deviation is about 2.031. The population variance is 28.875 / 8 = 3.609, so the population standard deviation is about 1.900. The calculator opens with this data."
+     ]
+    },
+    {
+     "h": "What a standard deviation tells you",
+     "p": [
+      "Standard deviation is in the same units as your data, unlike variance, which is in squared units. In a roughly normal data set about 68% of values fall within one standard deviation of the mean and about 95% within two. Because every value is squared in the calculation, outliers have a large effect, so check for extreme values."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "What is the difference between variance and standard deviation?",
+     "a": "Variance is the average squared distance from the mean. Standard deviation is its square root, which puts the spread back into the original units of the data."
+    },
+    {
+     "q": "Can standard deviation be negative?",
+     "a": "No. It is a square root, so it is zero or positive. It is zero only when every value in the data set is identical."
+    },
+    {
+     "q": "How many numbers do I need?",
+     "a": "At least 2 for a sample standard deviation, because the formula divides by n − 1. Larger samples give more reliable estimates."
+    },
+    {
+     "q": "What is the difference between standard deviation and standard error?",
+     "a": "Standard deviation describes how spread out individual values are. Standard error of the mean (s divided by the square root of n) describes how much the sample mean would vary from sample to sample."
+    },
+    {
+     "q": "How do outliers affect the result?",
+     "a": "A single extreme value can increase the standard deviation a lot. If your data has outliers, also look at the median and the range, or use a measure such as the interquartile range."
+    },
+    {
+     "q": "Can I paste data from a spreadsheet?",
+     "a": "Yes. Copy a column from Excel or Google Sheets and paste it in. Numbers can be separated by commas, spaces or new lines, and negative numbers and decimals work."
+    }
+   ]
+  },
+  {
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "badge": "Free, runs in your browser",
+   "disclaimer": "Disclaimer: ExamGrapher's statistics tools are for learning and for checking homework. Everything is calculated in your browser, and nothing you type is uploaded. For research, medical, financial or other high-stakes decisions, confirm results with dedicated statistical software.",
+   "path": "statistics/confidence-interval-calculator/",
+   "stats": "ci",
+   "card": "Confidence Interval Calculator",
+   "title": "Confidence Interval Calculator for a Mean or Proportion | ExamGrapher",
+   "desc": "Free confidence interval calculator for a mean (t or z) or a proportion (Wilson and Wald). See margin of error, critical value and a shaded graph.",
+   "h1": "Confidence Interval Calculator",
+   "intro": [
+    "A confidence interval gives a range of plausible values for a population parameter based on a sample. This calculator builds an interval for a population mean from a sample mean, standard deviation and sample size, or for a proportion from a count of successes. Choose 90%, 95%, 99% or your own confidence level."
+   ],
+   "sections": [
+    {
+     "h": "Formulas",
+     "ul": [
+      "Mean, σ unknown: x̄ ± t* · s/√n, with n − 1 degrees of freedom",
+      "Mean, σ known: x̄ ± z* · σ/√n",
+      "Proportion, Wald: p̂ ± z*√(p̂(1 − p̂)/n)",
+      "Proportion, Wilson: re-centres and adjusts the width, and works better for small samples or proportions near 0 or 1."
+     ]
+    },
+    {
+     "h": "Worked example",
+     "p": [
+      "A sample of n = 36 has a mean of 52.4 and a standard deviation of 6.8. The standard error is 6.8 / 6 = 1.133. For 95% confidence with 35 degrees of freedom, t* is about 2.030, so the margin of error is about 2.30 and the interval is about (50.10, 54.70). The calculator opens with these numbers."
+     ]
+    },
+    {
+     "h": "t or z?",
+     "p": [
+      "Use t when the population standard deviation is unknown, which is almost always the case with real data. Use z only when the population standard deviation is known from outside your sample. With large samples the two give nearly the same answer."
+     ]
+    },
+    {
+     "h": "How to read a confidence interval",
+     "p": [
+      "A 95% confidence interval does not mean there is a 95% chance the true value lies inside this one interval. It means that if you repeated the sampling many times and built an interval each time, about 95% of those intervals would contain the true value."
+     ]
+    },
+    {
+     "h": "Critical values worth remembering",
+     "ul": [
+      "90% confidence: z* = 1.645",
+      "95% confidence: z* = 1.960",
+      "99% confidence: z* = 2.576"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "What is the margin of error?",
+     "a": "It is the critical value times the standard error, which is the distance from the sample estimate to each end of the interval."
+    },
+    {
+     "q": "How can I get a narrower interval?",
+     "a": "Use a larger sample or a lower confidence level. Quadrupling the sample size roughly halves the margin of error."
+    },
+    {
+     "q": "Is a 99% interval better than a 95% interval?",
+     "a": "It is more likely to contain the true value, but it is wider and so less precise. The right level depends on how costly a miss would be."
+    },
+    {
+     "q": "Which proportion interval should I use?",
+     "a": "Many textbooks teach the Wald (normal approximation) interval, so it is shown for checking homework. The Wilson interval is generally more reliable, especially when n is small or the proportion is near 0 or 1."
+    },
+    {
+     "q": "What conditions do I need?",
+     "a": "The sample should be random and the observations independent. For a mean, the data should be roughly normal or the sample reasonably large. For a proportion, a common rule of thumb is at least 10 successes and 10 failures."
+    },
+    {
+     "q": "What if I only have raw data?",
+     "a": "Paste your numbers into the standard deviation calculator to get the mean, standard deviation and n, then enter them here."
+    }
+   ]
+  },
+  {
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "badge": "Free, runs in your browser",
+   "disclaimer": "Disclaimer: ExamGrapher's statistics tools are for learning and for checking homework. Everything is calculated in your browser, and nothing you type is uploaded. For research, medical, financial or other high-stakes decisions, confirm results with dedicated statistical software.",
+   "path": "statistics/t-test-calculator/",
+   "stats": "ttest",
+   "card": "T-Test Calculator",
+   "title": "T-Test Calculator: One-Sample, Two-Sample & Paired | ExamGrapher",
+   "desc": "Free t-test calculator. Run a one-sample, Welch, pooled or paired t-test from raw data or summary statistics and get t, df, p-value and a graph.",
+   "h1": "T-Test Calculator",
+   "intro": [
+    "A t-test checks whether a sample mean differs from a value, or whether two means differ, when the population standard deviation is unknown. Choose the test type, enter raw data or summary statistics, and the calculator returns the t statistic, degrees of freedom, p-value, a confidence interval and an effect size, with a shaded graph of the p-value."
+   ],
+   "sections": [
+    {
+     "h": "Which t-test should I use?",
+     "ul": [
+      "One-sample: compare one sample mean to a known or claimed value.",
+      "Two-sample (Welch): compare the means of two independent groups without assuming equal variances. This is the safer default.",
+      "Two-sample (pooled): the same comparison, but it assumes both groups have the same variance, and uses n₁ + n₂ − 2 degrees of freedom.",
+      "Paired: compare two measurements on the same subjects, such as before and after. The test runs on the differences."
+     ]
+    },
+    {
+     "h": "Formulas",
+     "ul": [
+      "One-sample: t = (x̄ − μ₀) / (s/√n), with n − 1 degrees of freedom",
+      "Welch: t = (x̄₁ − x̄₂) / √(s₁²/n₁ + s₂²/n₂), with Welch–Satterthwaite degrees of freedom",
+      "Paired: t = d̄ / (sᵈ/√n), where d is each pair's difference"
+     ]
+    },
+    {
+     "h": "Worked example",
+     "p": [
+      "Sample 1 is 23, 25, 28, 30, 26, 27, 24, 29 (mean 26.5) and sample 2 is 20, 22, 25, 24, 21, 23, 26, 22 (mean 22.875). A Welch two-sample test gives t ≈ 3.22 with about 13.5 degrees of freedom and a two-sided p-value of about 0.0064. At α = 0.05 that is enough to reject the null hypothesis that the means are equal. The calculator opens with this data."
+     ]
+    },
+    {
+     "h": "Reading the p-value",
+     "p": [
+      "The p-value is the probability, assuming the null hypothesis is true, of getting a t statistic at least as extreme as yours. A p-value below your significance level α is evidence against the null hypothesis. It is not the probability that the null hypothesis is true, and a non-significant result does not prove the means are equal."
+     ]
+    },
+    {
+     "h": "Assumptions",
+     "ul": [
+      "Observations are independent (or properly paired).",
+      "The data is roughly normal, or the samples are reasonably large.",
+      "There are no extreme outliers. Plot your data if you are unsure."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Should I use Welch or the pooled t-test?",
+     "a": "Welch is the safer choice because it does not assume equal variances and loses little power when the variances are equal. Use the pooled test when your course or problem tells you to assume equal variances."
+    },
+    {
+     "q": "When do I use a one-tailed test?",
+     "a": "Only when your hypothesis names a direction before you look at the data, such as “the new method scores higher”. Otherwise use the two-sided test."
+    },
+    {
+     "q": "What are degrees of freedom?",
+     "a": "They describe how much independent information the standard deviation estimate rests on. For a one-sample or paired test it is n − 1. The Welch test uses a fractional value."
+    },
+    {
+     "q": "What does Cohen's d mean?",
+     "a": "It is an effect size: the difference between means in standard deviation units. As a rough guide, 0.2 is small, 0.5 is medium and 0.8 is large, but what counts as large depends on the field."
+    },
+    {
+     "q": "Can I use a t-test on a small sample?",
+     "a": "Yes, if the data is roughly normal. With very small samples the test is sensitive to outliers and skew."
+    },
+    {
+     "q": "Why does the paired test need two lists of the same length?",
+     "a": "Each value in the first list is matched with the value in the same position in the second list, and the test runs on those differences."
+    }
+   ]
+  },
+  {
+   "category": "stats-tools",
+   "category_name": "Statistics & More",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "badge": "Free, runs in your browser",
+   "disclaimer": "Disclaimer: ExamGrapher's statistics tools are for learning and for checking homework. Everything is calculated in your browser, and nothing you type is uploaded. For research, medical, financial or other high-stakes decisions, confirm results with dedicated statistical software.",
+   "path": "statistics/chi-square-calculator/",
+   "stats": "chisq",
+   "card": "Chi-Square Calculator",
+   "title": "Chi-Square Calculator: Goodness of Fit & Independence Test | ExamGrapher",
+   "desc": "Free chi-square calculator. Run a goodness-of-fit or independence test, get χ², degrees of freedom, p-value, expected counts and a shaded graph.",
+   "h1": "Chi-Square Calculator",
+   "intro": [
+    "A chi-square test compares counts. The goodness-of-fit test asks whether observed counts match an expected distribution, such as whether a die is fair. The test of independence asks whether two categorical variables are related, using a table of counts. Enter your counts and the calculator returns the chi-square statistic, degrees of freedom, p-value, expected counts, each cell's contribution and a shaded graph of the p-value."
+   ],
+   "sections": [
+    {
+     "h": "Which chi-square test do I need?",
+     "ul": [
+      "Goodness of fit: one categorical variable, compared with an expected distribution. Degrees of freedom = categories − 1.",
+      "Test of independence: two categorical variables in a contingency table. Degrees of freedom = (rows − 1) × (columns − 1)."
+     ]
+    },
+    {
+     "h": "Formulas",
+     "ul": [
+      "Chi-square statistic: χ² = Σ (O − E)² / E, where O is the observed count and E is the expected count",
+      "Independence, expected count: E = (row total × column total) / grand total",
+      "Cramér’s V (effect size for a table): √(χ² / (n × min(rows − 1, columns − 1)))"
+     ]
+    },
+    {
+     "h": "Worked example: is a die fair?",
+     "p": [
+      "A die is rolled 60 times and the six faces come up 5, 8, 9, 8, 10 and 20 times. If the die is fair, each face is expected 10 times. The contributions (O − E)² / E are 2.5, 0.4, 0.1, 0.4, 0 and 10, so χ² = 13.4 with 5 degrees of freedom and a p-value of about 0.0199. At α = 0.05 you reject the idea that the die is fair. The calculator opens with these counts."
+     ]
+    },
+    {
+     "h": "Worked example: independence in a 2 × 2 table",
+     "p": [
+      "Switch to the test of independence and use the table 30, 20 / 20, 30. Every expected count is 25, so χ² = 4 × (5² / 25) = 4 with 1 degree of freedom, giving p ≈ 0.0455."
+     ]
+    },
+    {
+     "h": "Conditions to check",
+     "ul": [
+      "Use counts, not percentages or averages.",
+      "Observations are independent and come from a random sample.",
+      "Each expected count should be at least 5. The calculator warns you when it is not."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "What does the p-value tell me?",
+     "a": "It is the probability, if the null hypothesis is true, of getting a chi-square statistic at least as large as yours. A p-value below your significance level is evidence against the null hypothesis. It does not tell you how strong or important the effect is."
+    },
+    {
+     "q": "Can the chi-square statistic be negative?",
+     "a": "No. Every term (O − E)² / E is zero or positive, so the statistic is zero or positive. Large values mean the observed counts are far from the expected ones."
+    },
+    {
+     "q": "What if some expected counts are below 5?",
+     "a": "The chi-square approximation becomes less reliable. Combine categories where that makes sense, collect more data, or use an exact test such as Fisher's exact test for a 2 × 2 table."
+    },
+    {
+     "q": "Does it use the Yates continuity correction?",
+     "a": "No. It uses the standard formula taught in most courses. Some software applies a continuity correction to 2 × 2 tables by default, which gives a slightly different p-value."
+    },
+    {
+     "q": "Can I enter percentages?",
+     "a": "For the independence test, enter counts. For goodness of fit, enter observed counts, and you can give the expected distribution as proportions or percentages in the custom proportions option."
+    },
+    {
+     "q": "What does Cramér's V mean?",
+     "a": "It measures how strongly two variables are associated in a table, from 0 (no association) to 1 (perfect association). It helps because a large sample can make a tiny effect statistically significant."
+    }
+   ]
+  },
+  {
+   "path": "compare/ti-83-plus-vs-ti-84-plus/",
+   "category": "guide-tools",
+   "category_name": "Calculator Guides & Comparisons",
+   "card": "TI-83 Plus vs. TI-84 Plus Comparison",
+   "title": "TI-83 Plus vs TI-84 Plus & Online Alternative | ExamGrapher",
+   "desc": "Compare processor speed, memory, screen resolution, and free browser alternatives.",
+   "h1": "TI-83 Plus vs. TI-84 Plus Comparison",
+   "exprs": [
+    "x^2 - 5",
+    "2*x + 1"
+   ],
+   "exam": false
+  },
+  {
+   "path": "exam-prep/ap-precalculus-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "AP Precalculus Graphing Calculator",
+   "title": "AP Precalculus Graphing Calculator (2026 Exam Practice) | ExamGrapher",
+   "desc": "Practice the calculator sections of the AP Precalculus exam: regressions, function transformations, polar curves and exponential models in a free online grapher.",
+   "h1": "AP Precalculus Graphing Calculator",
+   "exprs": [
+    "a*sin(b*(x - c)) + 1",
+    "2*(0.8)^x"
+   ],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "AP Precalculus is the newest AP math course: it launched in fall 2023 and the first exam was given in May 2024. It is now one of the fastest-growing AP subjects, and it leans heavily on graphing-calculator skills in its calculator-active sections.",
+    "The course is built around modeling. You are expected to fit linear, quadratic, exponential, logarithmic and sinusoidal models to data, interpret the parameters, and compare rates of change. This page opens with a sinusoidal model you can tune with sliders, and the Data table & regression panel handles the fitting questions."
+   ],
+   "examples": [
+    {
+     "e": "a*sin(b*(x - c)) + 1",
+     "l": "Sinusoidal model with amplitude, frequency and phase sliders"
+    },
+    {
+     "e": "2*(0.8)^x",
+     "l": "Exponential decay: proportional change of 20% per unit"
+    },
+    {
+     "e": "log(x, 2)",
+     "l": "Logarithm with base 2: the inverse of 2^x"
+    },
+    {
+     "e": "r = 2 + 2*cos(t)",
+     "l": "Polar function (cardioid), Unit 3 polar coordinates"
+    },
+    {
+     "e": "(x^2 - 1)/(x - 3)",
+     "l": "Rational function with a slant asymptote and a hole-free vertical asymptote"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is a graphing calculator allowed on the AP Precalculus exam?",
+     "a": "Yes, on the calculator-active parts of the exam. Part of the multiple-choice section and part of the free-response section require a graphing calculator, and the rest is calculator-free. Check the College Board's current AP calculator policy for the approved list."
+    },
+    {
+     "q": "Which calculator skills does AP Precalculus test?",
+     "a": "Graphing a function, finding zeros and intersections, computing a regression (linear, quadratic, cubic, exponential, logarithmic or sinusoidal-style models) and evaluating a model at a given input."
+    },
+    {
+     "q": "Can I run a regression here?",
+     "a": "Yes. Open Data table & regression under the equations, paste x, y pairs and choose a model. You get the equation, R² and a prediction box, and the points and curve are graphed together."
+    },
+    {
+     "q": "Is this an official AP tool?",
+     "a": "No. ExamGrapher is an independent free practice tool and is not affiliated with the College Board."
+    }
+   ],
+   "trend": "New AP course",
+   "points": [
+    "Unit 1: polynomial and rational functions, including end behavior and asymptotes.",
+    "Unit 2: exponential and logarithmic functions and models.",
+    "Unit 3: trigonometric and polar functions.",
+    "Unit 4 (classroom only, not on the exam): parametric, vector and matrix functions."
+   ],
+   "params": {
+    "a": 2,
+    "b": 1,
+    "c": 0
+   },
+   "disclaimer": "Disclaimer: ExamGrapher is an independent educational practice tool and is not affiliated with, endorsed by, or sponsored by the College Board. AP®, SAT® and PSAT/NMSQT® are registered trademarks of the College Board."
+  },
+  {
+   "path": "exam-prep/digital-psat-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "Digital PSAT/NMSQT Graphing Calculator",
+   "title": "Digital PSAT Graphing Calculator Practice (PSAT/NMSQT, PSAT 10, PSAT 8/9) | ExamGrapher",
+   "desc": "Free graphing calculator practice for the digital PSAT/NMSQT, PSAT 10 and PSAT 8/9. Solve systems, find vertices and run regressions the fast way.",
+   "h1": "Digital PSAT Graphing Calculator",
+   "exprs": [
+    "2*x + 3*y = 12",
+    "y = x - 1"
+   ],
+   "exam": true,
+   "updated": "November 2026",
+   "intro": [
+    "Since fall 2023 every PSAT-family test (PSAT 8/9, PSAT 10 and PSAT/NMSQT) has been digital, adaptive and shorter, matching the Digital SAT. A calculator is allowed on the whole Math section, and the testing app includes a built-in graphing calculator, so knowing how to graph your way to an answer is now a real time-saver.",
+    "The fastest PSAT moves are the same as on the SAT: type both equations of a system and read off the intersection, type a quadratic and read the vertex, or plot an inequality and check which region a point is in. All three work on this page, and the key points are listed under the equations."
+   ],
+   "examples": [
+    {
+     "e": "2*x + 3*y = 12",
+     "l": "Standard-form line, graphed directly (no need to solve for y)"
+    },
+    {
+     "e": "x^2 - 6*x + 5",
+     "l": "Read the vertex and both roots from Key points"
+    },
+    {
+     "e": "y < -x + 4",
+     "l": "Linear inequality, shaded region"
+    },
+    {
+     "e": "(1, 3), (4, 6), (6, 2)",
+     "l": "Plot points from a table to check which line passes through them"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is a calculator allowed on the digital PSAT?",
+     "a": "Yes. On the digital PSAT/NMSQT, PSAT 10 and PSAT 8/9 a calculator is allowed for the entire Math section, and a graphing calculator is built into the testing app. You can also bring an approved handheld calculator."
+    },
+    {
+     "q": "How is this different from the old paper PSAT?",
+     "a": "The paper PSAT had a no-calculator section. The digital version removed it, so every math question can be checked with a graph."
+    },
+    {
+     "q": "What are the best graphing shortcuts for the PSAT?",
+     "a": "Systems by intersection, quadratic vertex and roots, checking a point against an inequality, and using a regression for table or scatter-plot questions."
+    },
+    {
+     "q": "Is this the official PSAT calculator?",
+     "a": "No. It is an independent free practice tool with similar features, so you can build speed before test day."
+    }
+   ],
+   "trend": "Now fully digital",
+   "disclaimer": "Disclaimer: ExamGrapher is an independent educational practice tool and is not affiliated with, endorsed by, or sponsored by the College Board. AP®, SAT® and PSAT/NMSQT® are registered trademarks of the College Board."
+  },
+  {
+   "path": "exam-prep/texas-staar-algebra-1-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "Texas STAAR Algebra I Graphing Calculator",
+   "title": "STAAR Algebra 1 Graphing Calculator Practice (Texas EOC) | ExamGrapher",
+   "desc": "Practice for the online Texas STAAR Algebra I EOC with a free graphing calculator: linear functions, systems, quadratics, exponentials and regressions.",
+   "h1": "Texas STAAR Algebra I Graphing Calculator",
+   "exprs": [
+    "3*x - 4",
+    "-x + 8"
+   ],
+   "exam": true,
+   "updated": "November 2026",
+   "intro": [
+    "The redesigned STAAR moved online in spring 2023 and added new question types. Texas expects students to have a graphing calculator for the Algebra I end-of-course exam, and the online test provides one, so practicing with an on-screen grapher is the closest match to test day.",
+    "STAAR Algebra I questions often give a table or a word problem and ask for a function, a key feature (zeros, vertex, intercepts) or the solution of a system. Graph it here, read the answer from Key points, then switch on US Exam Mode to practice without the hints."
+   ],
+   "examples": [
+    {
+     "e": "3*x - 4",
+     "l": "Linear function: slope 3, y-intercept -4"
+    },
+    {
+     "e": "x^2 + 2*x - 8",
+     "l": "Quadratic: zeros at -4 and 2, vertex at (-1, -9)"
+    },
+    {
+     "e": "500*(1.03)^x/100",
+     "l": "Exponential growth model (in hundreds)"
+    },
+    {
+     "e": "y >= 2*x - 1",
+     "l": "Linear inequality, shaded with a solid boundary"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does STAAR Algebra I allow a graphing calculator?",
+     "a": "Yes. Texas requires students to have access to a graphing calculator for the Algebra I EOC, and the online STAAR platform includes one. Check TEA's current calculator policy for your test date."
+    },
+    {
+     "q": "Is this the calculator used on STAAR?",
+     "a": "No. ExamGrapher is an independent practice tool, not affiliated with the Texas Education Agency, with similar graphing features."
+    },
+    {
+     "q": "Can I practice linear regression questions?",
+     "a": "Yes. Paste a table into Data table & regression and choose Linear for the line of best fit, its equation and its correlation coefficient."
+    },
+    {
+     "q": "Will it work on a school Chromebook?",
+     "a": "Yes. It runs in the browser with nothing to install, and after the first visit it keeps working offline."
+    }
+   ],
+   "trend": "Online STAAR",
+   "disclaimer": "Disclaimer: ExamGrapher is an independent educational practice tool and is not affiliated with, endorsed by, or sponsored by the Texas Education Agency (TEA). STAAR® is a registered trademark of the Texas Education Agency."
+  },
+  {
+   "path": "exam-prep/ny-regents-algebra-1-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "NY Regents Algebra I Graphing Calculator",
+   "title": "NY Regents Algebra 1 Graphing Calculator Practice | ExamGrapher",
+   "desc": "Free graphing calculator for New York Regents Algebra I practice: systems, quadratics, regressions, residuals and exponential models.",
+   "h1": "NY Regents Algebra I Graphing Calculator",
+   "exprs": [
+    "x^2 - 2*x - 3",
+    "x + 1"
+   ],
+   "exam": true,
+   "updated": "November 2026",
+   "intro": [
+    "Every student taking the New York Regents Examination in Algebra I must have a graphing calculator available. Regressions are a regular feature: you are asked to write a linear or exponential regression equation from a table, round its coefficients and state the correlation coefficient.",
+    "This page covers the full Regents toolkit. Graph functions and read off zeros and intersections, or paste a data table into Data table & regression to get the regression equation, r and R² in one step."
+   ],
+   "examples": [
+    {
+     "e": "x^2 - 2*x - 3",
+     "l": "Factor by graphing: zeros at -1 and 3"
+    },
+    {
+     "e": "abs(x - 2) - 1",
+     "l": "Absolute value function with vertex (2, -1)"
+    },
+    {
+     "e": "(x < 2) ? x + 1 : 5 - x",
+     "l": "Piecewise function"
+    },
+    {
+     "e": "y = 3*(2)^x",
+     "l": "Exponential growth: initial value 3, growth factor 2"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is a graphing calculator required for the Algebra I Regents?",
+     "a": "Yes. New York requires students to have a graphing calculator for the Algebra I Regents exam. Check NYSED's current guidance for approved models and the latest testing format."
+    },
+    {
+     "q": "How do I find the correlation coefficient?",
+     "a": "Open Data table & regression, paste your x, y values and choose Linear. The coefficient r is shown under the equation, along with R²."
+    },
+    {
+     "q": "Does it round regression coefficients?",
+     "a": "It shows six significant figures. Round them to the place the question asks for, usually the nearest hundredth or thousandth."
+    },
+    {
+     "q": "Is this affiliated with NYSED?",
+     "a": "No. It is an independent free practice tool."
+    }
+   ],
+   "trend": "Regression-heavy",
+   "fit": {
+    "data": "1, 12\n2, 15\n3, 19\n4, 22\n5, 27\n6, 29",
+    "model": "linear"
+   },
+   "disclaimer": "Disclaimer: ExamGrapher is an independent educational practice tool and is not affiliated with, endorsed by, or sponsored by the New York State Education Department (NYSED)."
+  },
+  {
+   "path": "exam-prep/smarter-balanced-graphing-calculator/",
+   "category": "exam-tools",
+   "category_name": "US Exam Prep",
+   "card": "Smarter Balanced (SBAC) Graphing Calculator",
+   "title": "Smarter Balanced Graphing Calculator Practice (SBAC, CAASPP) | ExamGrapher",
+   "desc": "Practice the online Smarter Balanced (SBAC) high-school math test, used for CAASPP and other state assessments, with a free graphing calculator.",
+   "h1": "Smarter Balanced (SBAC) Graphing Calculator",
+   "exprs": [
+    "0.5*x^2 - 2",
+    "x + 2"
+   ],
+   "exam": true,
+   "updated": "November 2026",
+   "intro": [
+    "Smarter Balanced math tests are taken online in several states, including California (CAASPP), Washington, Oregon and others. On calculator-allowed items, the testing app provides an on-screen calculator. High-school students get a graphing calculator, and grades 6 to 8 get a scientific one.",
+    "Use this page to get comfortable typing equations, reading intersections and zooming, so the on-screen calculator feels familiar on test day. US Exam Mode turns off the hints, closer to the real test."
+   ],
+   "examples": [
+    {
+     "e": "0.5*x^2 - 2",
+     "l": "Quadratic with vertex (0, -2)"
+    },
+    {
+     "e": "y = -3/4*x + 6",
+     "l": "Line in slope-intercept form"
+    },
+    {
+     "e": "x^2 + y^2 = 25",
+     "l": "Circle with radius 5"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Which grades use a graphing calculator on Smarter Balanced?",
+     "a": "High-school items that allow a calculator provide a graphing calculator. Grades 6 to 8 get a scientific calculator, and grades 3 to 5 do not use one. Check your state's current accessibility and accommodations guidelines."
+    },
+    {
+     "q": "Is this the SBAC calculator?",
+     "a": "No. ExamGrapher is an independent practice tool and is not affiliated with Smarter Balanced or any state education agency."
+    },
+    {
+     "q": "Can I use it on a phone or Chromebook?",
+     "a": "Yes. It works in any modern browser, including school Chromebooks, and after the first visit it keeps working offline."
+    }
+   ],
+   "disclaimer": "Disclaimer: ExamGrapher is an independent educational practice tool and is not affiliated with, endorsed by, or sponsored by the Smarter Balanced Assessment Consortium or any state department of education."
+  },
+  {
+   "path": "data/linear-regression-calculator/",
+   "category": "data-tools",
+   "category_name": "Data, Regression & Finance",
+   "card": "Linear Regression Calculator",
+   "title": "Linear Regression Calculator with Graph (y = mx + b, r, R²) | ExamGrapher",
+   "desc": "Paste x, y data to get the least-squares regression line, slope, intercept, correlation coefficient r and R², with the scatter plot and line graphed instantly.",
+   "h1": "Linear Regression Calculator",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "Linear regression finds the straight line y = mx + b that best fits a set of points by minimizing the sum of squared vertical distances (least squares). It is one of the most-used tools in school math and statistics, and it appears on the Digital SAT, AP Precalculus, AP Statistics and state tests.",
+    "Paste your data into the box (two columns copied from Google Sheets or Excel work), press Fit & graph, and you get the equation, the correlation coefficient r, R² and a prediction box. The scatter plot and regression line are drawn together, and you can share the graph with a link."
+   ],
+   "examples": [
+    {
+     "e": "(1, 2), (2, 4.1), (3, 5.9), (4, 8.2)",
+     "l": "Type points directly to plot a quick scatter plot"
+    },
+    {
+     "e": "y = 1.94*x + 0.15",
+     "l": "A fitted line, for checking residuals by eye"
+    }
+   ],
+   "faq": [
+    {
+     "q": "What do r and R² mean?",
+     "a": "r (from -1 to 1) measures the strength and direction of a linear relationship. R² (from 0 to 1) is the share of the variation in y explained by the line. An R² of 0.95 means the line explains 95% of the variation."
+    },
+    {
+     "q": "How do I paste data from a spreadsheet?",
+     "a": "Select two columns (x then y) in Google Sheets or Excel, copy, and paste into the box. Tabs, commas, spaces and semicolons all work as separators."
+    },
+    {
+     "q": "Can I predict a value?",
+     "a": "Yes. After fitting, type an x value into Predict y at x and the estimate appears immediately."
+    },
+    {
+     "q": "Is my data uploaded anywhere?",
+     "a": "No. The calculation runs in your browser and nothing you paste is sent to a server."
+    }
+   ],
+   "trend": "Most requested",
+   "points": [
+    "Slope m: the change in y for each 1-unit increase in x.",
+    "Intercept b: the predicted y when x = 0 (it only makes sense if x = 0 is in range).",
+    "Residual: actual y minus predicted y. A good linear fit has residuals scattered randomly around 0."
+   ],
+   "fit": {
+    "data": "1, 2.3\n2, 2.9\n3, 4.1\n4, 4.8\n5, 5.2\n6, 6.9\n7, 7.4\n8, 8.1",
+    "model": "linear"
+   }
+  },
+  {
+   "path": "data/quadratic-regression-calculator/",
+   "category": "data-tools",
+   "category_name": "Data, Regression & Finance",
+   "card": "Quadratic Regression Calculator",
+   "title": "Quadratic Regression Calculator (y = ax² + bx + c) with Graph | ExamGrapher",
+   "desc": "Find the best-fit parabola for your data. Get a, b, c and R², then read the vertex and roots straight from the graph.",
+   "h1": "Quadratic Regression Calculator",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "Quadratic regression fits a parabola y = ax² + bx + c to data that rises and then falls, or falls and then rises: projectile heights, profit against price, or the area of a rectangle with a fixed perimeter.",
+    "The sample data below is a ball's height over time. Fit it, then look under Key points: the vertex (maximum height) and the roots (when it hits the ground) are listed for the fitted curve."
+   ],
+   "examples": [
+    {
+     "e": "-4.9*x^2 + 20*x + 1",
+     "l": "Projectile height model (metres, seconds)"
+    },
+    {
+     "e": "-2*(x - 3)^2 + 18",
+     "l": "Vertex form: maximum at (3, 18)"
+    }
+   ],
+   "faq": [
+    {
+     "q": "How many points do I need?",
+     "a": "At least 3 for a quadratic. More points give a more reliable fit."
+    },
+    {
+     "q": "How do I find the maximum of the fitted curve?",
+     "a": "The fitted equation is added to the graph, and its max or min appears under Key points. Tap it to jump to that point."
+    },
+    {
+     "q": "Quadratic or exponential?",
+     "a": "If the data changes direction, use quadratic. If it grows or shrinks by a constant percentage, use exponential. Try both and compare R²."
+    }
+   ],
+   "fit": {
+    "data": "0, 1\n1, 5.2\n2, 7.4\n3, 7.9\n4, 6.1\n5, 2.5",
+    "model": "quadratic"
+   }
+  },
+  {
+   "path": "data/exponential-regression-calculator/",
+   "category": "data-tools",
+   "category_name": "Data, Regression & Finance",
+   "card": "Exponential Regression Calculator",
+   "title": "Exponential Regression Calculator (y = a·bˣ) with Graph | ExamGrapher",
+   "desc": "Fit an exponential model y = a·bˣ to growth or decay data. Get the initial value, the growth factor, R² and predictions.",
+   "h1": "Exponential Regression Calculator",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "Exponential regression fits y = a·bˣ, where a is the starting value and b is the growth (b > 1) or decay (0 < b < 1) factor. The percentage change per step is (b - 1) × 100%. It is the standard model for population growth, compound interest, viral spread and radioactive decay, and a common item on AP Precalculus and the NY Regents.",
+    "Every y value must be positive, because the fit works on ln(y). Paste your data, press Fit & graph, and use the prediction box to extrapolate."
+   ],
+   "examples": [
+    {
+     "e": "1.2*(1.53)^x",
+     "l": "Growth of about 53% per step"
+    },
+    {
+     "e": "100*(0.5)^(x/5)/10",
+     "l": "Half-life of 5 units (scaled by 1/10)"
+    }
+   ],
+   "faq": [
+    {
+     "q": "How do I read the growth rate?",
+     "a": "Take b - 1. If b = 1.08, the quantity grows by 8% per unit of x. If b = 0.92, it shrinks by 8%."
+    },
+    {
+     "q": "Why does it say every y value must be above 0?",
+     "a": "An exponential model a·bˣ with a > 0 is always positive, and the least-squares fit is done on ln(y), which is undefined for 0 or negative values."
+    },
+    {
+     "q": "Is this the same as a TI-84 ExpReg?",
+     "a": "Yes, it uses the same method (a least-squares fit on ln y), so the coefficients match a handheld ExpReg."
+    }
+   ],
+   "fit": {
+    "data": "0, 1.2\n1, 1.9\n2, 2.8\n3, 4.4\n4, 6.5\n5, 9.9",
+    "model": "exponential"
+   }
+  },
+  {
+   "path": "data/line-of-best-fit-calculator/",
+   "category": "data-tools",
+   "category_name": "Data, Regression & Finance",
+   "card": "Line of Best Fit & Scatter Plot Maker",
+   "title": "Line of Best Fit Calculator & Scatter Plot Maker | ExamGrapher",
+   "desc": "Make a scatter plot from your data and draw the line of best fit, or try quadratic, exponential, power and log trend lines. Free, no sign-up.",
+   "h1": "Line of Best Fit & Scatter Plot Maker",
+   "exprs": [],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "A scatter plot shows whether two variables move together, and a line of best fit (trend line) summarizes that relationship in one equation. Scatter-plot questions appear on almost every US math test: the Digital SAT data analysis questions, 8th-grade state tests and AP Statistics.",
+    "Paste your data to make the scatter plot, then switch models in the drop-down to compare linear, quadratic, cubic, exponential, power and logarithmic trend lines. The model with the highest R² fits best, but always check that it makes sense in context."
+   ],
+   "examples": [
+    {
+     "e": "(1, 3.1), (2, 4.2), (3, 4), (4, 4.9), (5, 6.8)",
+     "l": "Quick scatter plot from typed points"
+    },
+    {
+     "e": "y = 0.8*x + 2.2",
+     "l": "Draw your own trend line to compare with the fitted one"
+    }
+   ],
+   "faq": [
+    {
+     "q": "How do I make a scatter plot?",
+     "a": "Paste x, y pairs into Data table & regression and press Fit & graph, or type points such as (1, 3), (2, 5) straight into an equation box."
+    },
+    {
+     "q": "Which trend line should I use?",
+     "a": "Start with linear. If the points curve, try quadratic or exponential and compare R², then pick the simplest model that fits well and makes sense for the situation."
+    },
+    {
+     "q": "Can I save the scatter plot?",
+     "a": "Yes. Use Settings > Download graph as PNG, or the share button for a link."
+    }
+   ],
+   "trend": "Data literacy",
+   "fit": {
+    "data": "1, 3.1\n1.5, 2.4\n2, 4.2\n3, 4\n3.5, 5.6\n4, 4.9\n5, 6.8\n5.5, 6.1\n6, 7.9\n7, 7.2",
+    "model": "linear"
+   }
+  },
+  {
+   "path": "data/compound-interest-grapher/",
+   "category": "data-tools",
+   "category_name": "Data, Regression & Finance",
+   "card": "Compound Interest Grapher",
+   "title": "Compound Interest Graph Calculator: Compare Simple vs Compound | ExamGrapher",
+   "desc": "Graph compound interest against simple interest with sliders for principal and rate. See how money grows over time in a free visual calculator.",
+   "h1": "Compound Interest Grapher",
+   "exprs": [
+    "P*(1 + r/100)^x",
+    "P*(1 + r*x/100)"
+   ],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "Personal finance is now a required high-school course in more than half of US states, and compound interest is at its center. This grapher puts compound growth P(1 + r)^t next to simple interest P(1 + rt), so you can see where the two curves separate.",
+    "P is the starting amount (in thousands of dollars) and r is the yearly rate in percent. Drag the sliders and read the value at any year by hovering over the curve. The default is $10,000 at 7% a year."
+   ],
+   "examples": [
+    {
+     "e": "10*(1 + 0.07/12)^(12*x)",
+     "l": "Monthly compounding at 7% on $10k (y in $1,000s)"
+    },
+    {
+     "e": "10*exp(0.07*x)",
+     "l": "Continuous compounding, Pe^(rt)"
+    },
+    {
+     "e": "y = 20",
+     "l": "Target line: when does the investment double? (read the intersection)"
+    }
+   ],
+   "faq": [
+    {
+     "q": "What is the rule of 72?",
+     "a": "Divide 72 by the interest rate to estimate the doubling time. At 7%, money doubles in about 72 / 7 ≈ 10.3 years. Add the line y = 20 to the default graph and read the intersection to check."
+    },
+    {
+     "q": "Why are the values in thousands?",
+     "a": "The graph uses the same scale on both axes, so keeping y in thousands keeps years and dollars readable together. Multiply y by 1,000 for dollars."
+    },
+    {
+     "q": "Is this financial advice?",
+     "a": "No. It is an educational tool for learning how interest works."
+    }
+   ],
+   "trend": "Finance class",
+   "params": {
+    "P": 10,
+    "r": 7
+   }
+  },
+  {
+   "path": "data/exponential-growth-decay-calculator/",
+   "category": "data-tools",
+   "category_name": "Data, Regression & Finance",
+   "card": "Exponential Growth & Decay Calculator",
+   "title": "Exponential Growth and Decay Calculator with Graph | ExamGrapher",
+   "desc": "Graph exponential growth and decay, half-life and doubling time. Adjust the initial value and rate with sliders and compare models side by side.",
+   "h1": "Exponential Growth & Decay Calculator",
+   "exprs": [
+    "a*(1 + k/100)^x",
+    "a*(1 - k/100)^x"
+   ],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "Exponential models describe quantities that change by the same percentage each step: populations, savings, medicine levels in the blood and radioactive material. Growth uses a factor above 1 and decay uses a factor between 0 and 1.",
+    "Here a is the starting value and k is the percentage rate. The two curves show growth and decay at the same rate, and the y-intercept and intersections are marked automatically."
+   ],
+   "examples": [
+    {
+     "e": "10*(0.5)^(x/3)",
+     "l": "Half-life of 3 units"
+    },
+    {
+     "e": "2*(2)^(x/4)",
+     "l": "Doubling every 4 units"
+    },
+    {
+     "e": "8*exp(-0.3*x)",
+     "l": "Continuous decay with rate 0.3"
+    }
+   ],
+   "faq": [
+    {
+     "q": "How do I find the half-life from a graph?",
+     "a": "Add the line y = a/2 (for example y = 5 when a = 10) and read the intersection with the decay curve. Its x value is the half-life."
+    },
+    {
+     "q": "What is the difference between growth factor and growth rate?",
+     "a": "The growth rate is the percentage change (for example 5%). The growth factor is 1 + rate (1.05). For decay, the factor is 1 - rate."
+    }
+   ],
+   "params": {
+    "a": 5,
+    "k": 20
+   }
+  },
+  {
+   "path": "compare/desmos-alternative/",
+   "category": "guide-tools",
+   "category_name": "Calculator Guides & Comparisons",
+   "card": "Free Desmos Alternative for Practice",
+   "title": "Free Desmos Alternative: Online Graphing Calculator for Practice | ExamGrapher",
+   "desc": "Looking for a Desmos-style graphing calculator? ExamGrapher is a free, fast alternative for practice, with exam mode, regressions, sliders and offline use.",
+   "h1": "A Free Desmos Alternative for Test Practice",
+   "exprs": [
+    "y = x^2 - 3",
+    "y = 2x"
+   ],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "Desmos became the built-in calculator on the Digital SAT, the digital PSAT and many state tests, so “Desmos-style” graphing is now a skill students need to practice. ExamGrapher works the same way: type an equation and it is graphed instantly, with intersections and roots marked, sliders for any extra letter, and shareable links.",
+    "Here is where ExamGrapher is different. US Exam Mode locks hints so practice feels like a real test, there are dedicated practice pages for the SAT, ACT, AP and state exams, the app keeps working offline after your first visit, and it loads fast on older school Chromebooks."
+   ],
+   "examples": [
+    {
+     "e": "y = x^2 - 3",
+     "l": "Instant parabola with roots and vertex marked"
+    },
+    {
+     "e": "a*x^2 + b*x + c",
+     "l": "Sliders for a, b and c"
+    },
+    {
+     "e": "(1, 2), (2, 3.9), (3, 6.1)",
+     "l": "Points and lists"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is ExamGrapher made by Desmos?",
+     "a": "No. ExamGrapher is an independent free tool and is not affiliated with Desmos Studio PBC. Use the official Desmos calculator in your testing app on exam day."
+    },
+    {
+     "q": "What can ExamGrapher do?",
+     "a": "Functions, implicit equations such as circles and conics, inequalities with shading, parametric and polar curves, points, sliders, six regression models, degree and radian modes, PNG export and share links."
+    },
+    {
+     "q": "Why practice on more than one calculator?",
+     "a": "Getting used to typing math, reading intersections and zooming in any graphing tool makes the testing app feel familiar. ExamGrapher adds exam-specific pages and an exam mode for timed practice."
+    }
+   ],
+   "trend": "Top search",
+   "disclaimer": "Disclaimer: ExamGrapher is an independent educational tool and is not affiliated with, endorsed by, or sponsored by Desmos Studio PBC. Desmos® is a trademark of Desmos Studio PBC."
+  },
+  {
+   "path": "compare/ti-84-plus-ce-vs-online-graphing-calculator/",
+   "category": "guide-tools",
+   "category_name": "Calculator Guides & Comparisons",
+   "card": "TI-84 Plus CE vs Online Graphing Calculator",
+   "title": "TI-84 Plus CE vs Free Online Graphing Calculator (2026) | ExamGrapher",
+   "desc": "Do you still need a $100+ TI-84 Plus CE? Compare a handheld graphing calculator with the built-in calculators on digital tests and free online graphers.",
+   "h1": "TI-84 Plus CE vs an Online Graphing Calculator",
+   "exprs": [
+    "x^3 - 4*x",
+    "y = 2"
+   ],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "Digital testing changed the calculator question. The Digital SAT, the digital PSAT and many state tests now have a graphing calculator built into the test app, and many families ask whether a handheld TI-84 Plus CE is still worth buying.",
+    "The short answer: a handheld is still useful where devices are not allowed or the test is on paper (some AP sections, the ACT on paper, classroom quizzes), and some students just prefer physical keys. For practice and homework, a free online grapher is faster to type into, shows a larger graph and costs nothing."
+   ],
+   "examples": [
+    {
+     "e": "x^3 - 4*x",
+     "l": "Cubic: compare reading zeros here with the TI-84 CALC > zero menu"
+    },
+    {
+     "e": "y = 2",
+     "l": "Horizontal line to find where f(x) = 2 (intersections)"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Do I need a TI-84 Plus CE for the Digital SAT?",
+     "a": "No. The Digital SAT has a built-in graphing calculator for the whole Math section. You may still bring an approved handheld if you prefer one."
+    },
+    {
+     "q": "When is a handheld still useful?",
+     "a": "On paper-based tests, in classes that do not allow devices, and on exams where your own approved calculator is required. Check each test's calculator policy."
+    },
+    {
+     "q": "Does ExamGrapher match TI-84 regression results?",
+     "a": "Yes. Linear, quadratic, cubic, exponential, power and logarithmic fits use the same least-squares methods as LinReg, QuadReg, CubicReg, ExpReg, PwrReg and LnReg."
+    }
+   ],
+   "points": [
+    "Price: a handheld costs $100 or more, while online graphers are free.",
+    "Exam use: handhelds are accepted on most paper tests, and digital tests provide their own built-in calculator.",
+    "Speed: typing an equation on a full keyboard is usually faster than menu navigation.",
+    "Battery and storage: no charging and no lost calculator."
+   ],
+   "disclaimer": "Disclaimer: ExamGrapher is an independent educational resource and is not affiliated with, endorsed by, or sponsored by Texas Instruments Incorporated. TI-84 Plus CE is a trademark of Texas Instruments."
+  },
+  {
+   "path": "guides/chromebook-graphing-calculator/",
+   "category": "guide-tools",
+   "category_name": "Calculator Guides & Comparisons",
+   "card": "Graphing Calculator for Chromebook",
+   "title": "Free Graphing Calculator for Chromebook (No Install, Works Offline) | ExamGrapher",
+   "desc": "A free graphing calculator that runs on school Chromebooks with no install or extension. Install it as an app and it keeps working offline.",
+   "h1": "Graphing Calculator for Chromebook",
+   "exprs": [
+    "sin(x)",
+    "x/2"
+   ],
+   "exam": false,
+   "updated": "November 2026",
+   "intro": [
+    "Most US K-12 students use a school Chromebook, and many cannot install apps or extensions. ExamGrapher runs entirely in the browser, so it needs no download, no account and no admin permission.",
+    "After your first visit the calculator is saved on the device, so it still works if the Wi-Fi drops. In Chrome you can also choose Install ExamGrapher from the address bar or menu to give it its own window and shelf icon."
+   ],
+   "examples": [
+    {
+     "e": "sin(x)",
+     "l": "Trig graph: switch to DEG with the angle chip"
+    },
+    {
+     "e": "x^2 + y^2 = 16",
+     "l": "Circle with radius 4"
+    },
+    {
+     "e": "y > x^2 - 4",
+     "l": "Shaded inequality"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Do I need to install anything?",
+     "a": "No. Open the page in Chrome. Installing it as an app is optional and only adds a shortcut and offline use."
+    },
+    {
+     "q": "Does it work without internet?",
+     "a": "Yes. After the first visit the calculator and the pages you opened are cached, so they keep working offline."
+    },
+    {
+     "q": "Is it blocked at school?",
+     "a": "That depends on your school's web filter. ExamGrapher has no games, chat or ads in the calculator itself, so it is usually allowed. Ask your teacher if it is blocked."
+    },
+    {
+     "q": "Does it collect student data?",
+     "a": "No account is needed, and equations and data stay in the browser. See our privacy policy for details."
+    }
+   ],
+   "trend": "School devices"
+  }
+ ],
+ "legal": [
+  {
+   "slug": "about",
+   "title": "About ExamGrapher | ExamGrapher",
+   "h1": "About ExamGrapher",
+   "body": [
+    "ExamGrapher.com is a free, browser-based online graphing calculator built for US high school, AP, and college mathematics students."
+   ]
+  },
+  {
+   "slug": "contact",
+   "title": "Contact Us | ExamGrapher",
+   "h1": "Contact Us",
+   "body": [
+    "Have a feature suggestion or bug report? Reach our team at support@examgrapher.com."
+   ]
+  },
+  {
+   "slug": "terms",
+   "title": "Terms of Use | ExamGrapher",
+   "h1": "Terms of Use",
+   "body": [
+    "ExamGrapher is provided free of charge for educational practice and homework visualization."
+   ]
+  },
+  {
+   "slug": "privacy-policy",
+   "title": "Privacy Policy | ExamGrapher",
+   "h1": "Privacy Policy",
+   "body": [
+    "ExamGrapher runs calculations locally in your browser. Equations, data you paste into the regression panel and your settings stay on your device and are never uploaded.",
+    "We use standard analytics and Google AdSense cookies to keep this educational tool free.",
+    "If you join our email list (for example to get the test-day cheat sheet), we store the email address, the role you select and the page you signed up from. We use it only to send ExamGrapher updates, never sell it, and you can unsubscribe or ask us to delete it at any time through the Contact page.",
+    "The site can be installed as an app and caches pages on your device so it works offline. You can clear this at any time in your browser settings.",
+    "ExamGrapher is intended for a general audience. Students under 13 should ask a parent or guardian before joining the email list."
+   ]
+  }
+ ],
+ "cheatsheet": {
+  "title": "2026 Test-Day Graphing Calculator Cheat Sheet | ExamGrapher",
+  "h1": "2026 Test-Day Graphing Calculator Cheat Sheet",
+  "desc": "The graphing moves that save the most time on the Digital SAT, digital PSAT, ACT, AP Precalculus and state tests. Print it or keep it open while you practice.",
+  "sections": [
+   {
+    "h": "Systems of equations",
+    "items": [
+     "Type both equations exactly as given, including standard form like 2x + 3y = 12. The intersection point is the solution.",
+     "No intersection means no solution (parallel lines). The same line twice means infinitely many solutions."
+    ]
+   },
+   {
+    "h": "Quadratics",
+    "items": [
+     "Type the quadratic and read the vertex (min or max) and roots from Key points.",
+     "For questions with exactly one solution, use a slider (k*x^2 + 4x + 1) and drag until the curve just touches the x-axis."
+    ]
+   },
+   {
+    "h": "Inequalities",
+    "items": [
+     "Type y > 2x + 1 to shade. A dashed boundary means strict (< or >) and a solid one means ≤ or ≥.",
+     "Plot the answer choice as a point, for example (2, 7), to see whether it falls in the shaded region."
+    ]
+   },
+   {
+    "h": "Tables and data",
+    "items": [
+     "Turn a table into points: (1, 5), (3, 9), (5, 13). Then test each answer choice's equation.",
+     "For a line of best fit, use a regression: linear for a steady trend, exponential for percentage change, quadratic for rise-and-fall data."
+    ]
+   },
+   {
+    "h": "Trig and angles",
+    "items": [
+     "Check DEG and RAD before every trig question.",
+     "To solve sin(x) = 0.5, graph y = sin(x) and y = 0.5 and read the intersections."
+    ]
+   },
+   {
+    "h": "Speed habits",
+    "items": [
+     "Zoom out first, then zoom in on the point you need.",
+     "Practice with US Exam Mode on, so you can find key points without the labels."
+    ]
+   }
+  ]
+ }
+}
